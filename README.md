@@ -1,4 +1,8 @@
-### Hi there 👋
+# Привет, меня зовут Евгения 👋
+
+### junior веб-разработчица из Санкт-Петербурга
+
+![](https://komarev.com/ghpvc/?username=shigatsi&color=green)
 
 <!--
 **Shigatsi/Shigatsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

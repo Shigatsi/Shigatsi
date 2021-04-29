@@ -1,20 +1,11 @@
 # Привет, меня зовут Евгения 👋
 
-### junior веб-разработчица из Санкт-Петербурга
+### Я начинающая веб-разработчица из Санкт-Петербурга
 
-![](https://komarev.com/ghpvc/?username=shigatsi&color=green)
+- 🔭 Выпускница Яндекс.Практикум
+- 🌱 Изучаю Svelte, грокаю алгоритмы. Закрепляю знания, полученные в процессе учёбы.
+- :gear: Технологии и методологии: HTML5, CSS5, ES6, BEM, JavaScript, React, Express.js, MongoDB, Svelte, Strapi
+- 📫 Напишите мне: shigatsii@gmail.com
+- ⚡ Забавный факт: обожаю деревянные мостовые
 
-<!--
-**Shigatsi/Shigatsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=shigatsi&color=188f32&style=flat)
